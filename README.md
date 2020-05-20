@@ -1,4 +1,4 @@
-# Probability applied in Lottery
+# Probability in Lottery
 
 Probability and Combinatorics principles can help us to understand better the logic behind Lottery. This will help us, without any doubt, to think more carefully in our decisions when we have randomness.
 
